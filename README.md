@@ -1,2 +1,2 @@
 # computer-vision
-Learn Computer Vision
+OpenCV OCR and text recognition with Tesseract
